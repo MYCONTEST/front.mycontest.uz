@@ -1,2 +1,2 @@
 # mycontest.uz
-mycontest.uz - (front-end)
+mycontest.uz - ( front-end react.js )
